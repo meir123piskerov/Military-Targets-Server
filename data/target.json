@@ -1,0 +1,12 @@
+{
+  "targets": [
+    {
+      "id": "103",
+      "codeName": "Iron Falcon",
+      "region": "south",
+      "priority": 4,
+      "status": "new",
+      "createdAt": "2025-12-21T09:30:00.000Z"
+    }
+  ]
+}

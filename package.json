@@ -1,0 +1,28 @@
+{
+  "name": "military-targets-server",
+  "version": "1.0.0",
+  "description": "\"# Military-Targets-Server\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meir123piskerov/Military-Targets-Server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/meir123piskerov/Military-Targets-Server/issues"
+  },
+  "homepage": "https://github.com/meir123piskerov/Military-Targets-Server#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
